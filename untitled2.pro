@@ -30,7 +30,8 @@ SOURCES += \
 
 HEADERS += \
         mainwindow.h \
-    point.h
+    point.h \
+    wykres.h
 
 FORMS += \
         mainwindow.ui
